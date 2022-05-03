@@ -1,2 +1,2 @@
 # calcadoss.github.io
-an com website project for shoes
+an e-commerce website project for shoes
